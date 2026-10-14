@@ -1,18 +1,18 @@
 {
-  "name": "ReboCaiz",
-  "short_name": "ReboCaiz",
-  "description": "Gestão de orçamentos, clientes, serviços e despesas de pronto-socorro.",
+  "name": "Pronto-Socorro Pro",
+  "short_name": "Pronto-Socorro",
+  "description": "Orçamentos, rotas, clientes e custos",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
-  "background_color": "#101827",
+  "background_color": "#f1f5f8",
   "theme_color": "#101827",
   "icons": [
     {
       "src": "icon.svg",
       "sizes": "any",
       "type": "image/svg+xml",
-      "purpose": "any"
+      "purpose": "any maskable"
     }
   ]
 }
