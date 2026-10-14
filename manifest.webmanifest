@@ -1,1 +1,15 @@
-{"name":"ReboCaiz — Orçamentos","short_name":"ReboCaiz","description":"Orçamentos para transporte de máquinas e equipamentos","start_url":"./","scope":"./","display":"standalone","background_color":"#090909","theme_color":"#090909","icons":[{"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]}
+{
+  "name": "ReboCaiz — Simulador de Orçamentos",
+  "short_name": "ReboCaiz",
+  "description": "Simulador simples de orçamentos de reboque e transporte de máquinas.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#08090c",
+  "theme_color": "#08090c",
+  "icons": [
+    {"src":"icon-192.png","sizes":"192x192","type":"image/png","purpose":"any maskable"},
+    {"src":"icon-512.png","sizes":"512x512","type":"image/png","purpose":"any maskable"},
+    {"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}
+  ]
+}
