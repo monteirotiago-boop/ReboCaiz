@@ -1,7 +1,7 @@
 {
-  "name": "Pronto-Socorro Pro",
-  "short_name": "Pronto-Socorro",
-  "description": "Orçamentos, rotas, clientes e custos",
+  "name": "ReboCaiz",
+  "short_name": "ReboCaiz",
+  "description": "ReboCaiz — orçamentos, rotas, clientes e custos de pronto-socorro",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
